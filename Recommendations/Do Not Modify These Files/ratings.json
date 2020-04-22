@@ -1,0 +1,632 @@
+{
+  "titles": [
+    {
+      "title": "Marvel's Thor: Metal Gods",
+      "is_released": true,
+      "rating": 4.78,
+      "tagline": "Thor and Loki embark on a cosmic odyssey to stop the return of an ancient evil.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586555748/uploads/production/serial/cover_tall-bac373c6-2788-47bd-a020-32ed3815712c.png"
+    },
+    {
+      "title": "Orphan Black: The Next Chapter",
+      "is_released": true,
+      "rating": 4.9,
+      "tagline": "The official ebook and audiobook continuation, narrated by Emmy Award winner Tatiana Maslany.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1585347375/uploads/production/serial/cover_tall-09a3a8fe-3ca6-4137-a8bd-604d4c2b8b42.png"
+    },
+    {
+      "title": "Marvel's Black Widow: Bad Blood",
+      "is_released": false,
+      "rating": null,
+      "tagline": "The Black Widow has been targeted. Now she must find the threat before they find her. Coming 4/28.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587052290/uploads/production/serial/cover_tall-176db75a-838f-48fa-83e7-4d806ceb87b5.jpg"
+    },
+    {
+      "title": "The Co-founder ",
+      "is_released": false,
+      "rating": null,
+      "tagline": "Brilliant. Broke. And hungry for success. Two best friends must fight to save their start-up when the man they hired to fake out investors threatens to destroy everything.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299607/uploads/production/serial/cover_tall-32ef7b1d-b92d-4523-b725-0651337cc135.jpg"
+    },
+    {
+      "title": "Machina",
+      "is_released": true,
+      "rating": 4.52,
+      "tagline": "The race to Mars made real. Two rival tech companies grapple with old grudges, competing visions, and mysterious interference while competing to create the AI that will save humanity.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300353/uploads/production/serial/cover_tall-35c7811e-8c32-4e4b-bb74-17a757242831.jpg"
+    },
+    {
+      "title": "First Street",
+      "is_released": true,
+      "rating": 4.2,
+      "tagline": "As four young clerks dive headfirst into the world of the Supreme Court, they’re forced to face the high-pressure decisions and shocking secrets that could make or break their careers.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300133/uploads/production/serial/cover_tall-ce4cbdc1-bb7a-47ed-b1d9-a5eb40fe872a.jpg"
+    },
+    {
+      "title": "Gods & Lies",
+      "is_released": true,
+      "rating": 4.7,
+      "tagline": "A temple investigator and her demigod partner race to solve a bizarre murder.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300291/uploads/production/serial/cover_tall-cfb87035-3b85-4f00-9bf3-746cfd319338.jpg"
+    },
+    {
+      "title": "Marvel’s Jessica Jones: Playing with Fire",
+      "is_released": false,
+      "rating": null,
+      "tagline": "Jessica Jones' latest case leads her to discover a deadly magic.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1582668332/uploads/production/serial/cover_tall-7406976b-36c8-4137-82b5-0fd0541dc372.jpg"
+    },
+    {
+      "title": "Bullet Catcher",
+      "is_released": true,
+      "rating": 3.2,
+      "tagline": "After meeting a man with the power to catch bullets, a woman is hell-bent on becoming a bullet catcher herself.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579725497/uploads/production/serial/cover_tall-4a397924-25f9-440b-886d-beb365e1fd1f.jpg"
+    },
+    {
+      "title": "Ninth Step Station",
+      "is_released": true,
+      "rating": 3.98,
+      "tagline": "In 2033, two cops must set aside their differences to solve mysterious crimes in a divided, down-and-out Tokyo. Season 2 starts in April 2020.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586555725/uploads/production/serial/cover_tall-90160d66-a383-4b90-8c0c-0d8a6f437cf3.png"
+    },
+    {
+      "title": "Crispin's Model",
+      "is_released": false,
+      "rating": null,
+      "tagline": "A modern Lovecraftian tale of art, obsession, and dark gods lurking just beneath the surface of our world.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1576270888/uploads/production/serial/cover_tall-43279af0-d4ab-4150-baa9-92fc26dcb409.png"
+    },
+    {
+      "title": "How We Live Now: #WeFlu",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Seventeen years into quarantine, bacteria have been turned into entertainment devices. But is that really what humanity needs?",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416137/uploads/production/serial/cover_tall-258bf766-676d-4662-8120-981b066e7225.png"
+    },
+    {
+      "title": "How We Live Now: Above the Final Fields",
+      "is_released": false,
+      "rating": null,
+      "tagline": "In extreme isolation after a global pandemic, a parent sends a message to their child.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416250/uploads/production/serial/cover_tall-f180711e-d5e1-4952-b713-afe4a20fac7a.png"
+    },
+    {
+      "title": "How We Live Now: Not Alone",
+      "is_released": true,
+      "rating": null,
+      "tagline": "At the end of the world, it’s nice not to be alone.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416188/uploads/production/serial/cover_tall-946dd8b0-b640-49ce-a189-03a7df2194c6.png"
+    },
+    {
+      "title": "How We Live Now: Shopping Day ",
+      "is_released": true,
+      "rating": null,
+      "tagline": "“If I’m not back by six o’clock,” Mom said, “you know what to do.”",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587415727/uploads/production/serial/cover_tall-16288a8c-b5e9-4af4-8eec-5e7916cc8068.png"
+    },
+    {
+      "title": "No One Dies in Nowhere",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In the afterlife city of Nowhere, where nothing happens and the only thing to do is forget, a detective investigates an impossible murder.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1578502429/uploads/production/serial/cover_tall-6b073c2e-00b3-4be8-bbc9-d1c22f5f681e.jpg"
+    },
+    {
+      "title": "How We Live Now: Cities in Bloom",
+      "is_released": true,
+      "rating": null,
+      "tagline": "The Bloom is a time for living inside the physical body, free from quarantine. Sometimes there are consequences.  ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416554/uploads/production/serial/cover_tall-30aabaef-4803-4713-9fd7-d32d22202ff7.png"
+    },
+    {
+      "title": "How We Live Now: Monkey Work",
+      "is_released": true,
+      "rating": null,
+      "tagline": "On the efficacy of using sex bots to prepare biological samples for laboratory research.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416403/uploads/production/serial/cover_tall-62852728-9de0-4907-8ded-1c2834ff37b5.png"
+    },
+    {
+      "title": "How We Live Now: Milk Run",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Running errands in a city under quarantine.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416688/uploads/production/serial/cover_tall-7983d0a2-ce3c-4020-a05b-30e037b82350.png"
+    },
+    {
+      "title": "How We Live Now: The Slow Steed and the Fast",
+      "is_released": false,
+      "rating": null,
+      "tagline": "A woman and her daughter meet a stranger on the road. ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416618/uploads/production/serial/cover_tall-6d37a008-ef9a-484d-8b67-c8e38692959a.png"
+    },
+    {
+      "title": "How We Live Now: A Perfect Host",
+      "is_released": true,
+      "rating": 4.32,
+      "tagline": "She does not ride in on a white horse. She is beautiful and she is young.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586969147/uploads/production/serial/cover_tall-9df09f85-786f-408d-ab8a-a906b421a251.png"
+    },
+    {
+      "title": "How We Live Now: Lady Cataract Comes to the Mosque",
+      "is_released": false,
+      "rating": null,
+      "tagline": "Lucid dreaming through the apocalypse.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587416395/uploads/production/serial/cover_tall-f998a137-a502-49b7-89ae-7b42561e934a.png"
+    },
+    {
+      "title": "The Nine Billion Names of God",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A group of monks use modern technology to calculate all the possible names of God, which they believe will bring on the end of the universe.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587410709/uploads/production/serial/cover_tall-1b90181d-accb-4a6a-8625-a1af595fc536.png"
+    },
+    {
+      "title": "If I Forget Thee, O Earth",
+      "is_released": true,
+      "rating": null,
+      "tagline": "After nuclear war has destroyed Earth, the last of humanity clings to life on a lunar colony.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587412209/uploads/production/serial/cover_tall-c2dfc9dc-49bc-458a-8a7c-6aeb0a498dc1.png"
+    },
+    {
+      "title": "The Wall of Darkness",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Two adventurers are determined to scale a mysterious wall that surrounds the entire planet, only to discover a mind-bending truth.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587411496/uploads/production/serial/cover_tall-3f23309b-8ac2-41a6-837e-678de64623df.png"
+    },
+    {
+      "title": "The Possessed",
+      "is_released": true,
+      "rating": null,
+      "tagline": "After their home world is destroyed, a swarm of disembodied aliens hunt for suitable animals that they can inhabit.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586711567/uploads/production/serial/cover_tall-68f8e989-be49-4a65-9082-c9471ec32712.png"
+    },
+    {
+      "title": "The Parasite",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A man fights back against an entity from the future that has invaded his mind.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587415530/uploads/production/serial/cover_tall-3630ed1b-61dd-4cb9-b545-b1207a5b4ab7.png"
+    },
+    {
+      "title": "The Star",
+      "is_released": true,
+      "rating": null,
+      "tagline": "An astrophysicist-priest’s faith is tested when he and his crew discover the ruins of an advanced civilization.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587410827/uploads/production/serial/cover_tall-084bf0d7-165d-4375-a98a-1bb950873be8.png"
+    },
+    {
+      "title": "Moondog",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A man survives a life-threatening disaster because of his dog—who died 5 years before.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587409902/uploads/production/serial/cover_tall-d92df4bd-0381-43cb-be48-38df8483fe5a.png"
+    },
+    {
+      "title": "The Pauper Prince and the Eucalyptus Jinn",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A young Pakistani American professor, haunted by mystical tales of a Moghul princess and a jinn, chases the truth back to his late grandfather’s childhood home in Pakistan.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1578505722/uploads/production/serial/cover_tall-3109776d-ed6c-458b-9be4-6ec11c71ec9f.jpg"
+    },
+    {
+      "title": "Before Eden",
+      "is_released": true,
+      "rating": null,
+      "tagline": "As two scientists explore Venus, their search for life could have disastrous consequences.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587411755/uploads/production/serial/cover_tall-e1db9450-b753-4c03-b935-fec5f7efabeb.png"
+    },
+    {
+      "title": "A Slow Day at the Gallery",
+      "is_released": true,
+      "rating": null,
+      "tagline": "An old man goes to an alien art museum to visit Monet’s Waterlily Pond and see the alien species’ most cherished work of art. But the man—and his reason for visiting—are not quite what they seem.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050504/uploads/production/serial/cover_tall-761f826a-514b-4a28-8823-0e44cd084f2c.png"
+    },
+    {
+      "title": "A Key to the Illuminated Heretic",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In a timeline where Joan of Arc was not burned at the stake, a young artist documents Joan’s ongoing crusade against the English and for the heretical sect who believe in her visions.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1578501478/uploads/production/serial/cover_tall-d6f34fb4-af11-43a0-a9a7-492387f4cd7f.jpg"
+    },
+    {
+      "title": "Freezing Rain, a Chance of Falling",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Drow, a young composer and music critic, faces social media fallout when his exposé drives a popular music virtuosi to attempt suicide. With no prospects, he makes a desperate and dangerous agreement to break a story on unnecessary chemotherapy, risking his life to regain his reputation.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577140845/uploads/production/serial/cover_tall-c42cc3c9-b0a8-4a88-8cbe-2e54c87dc064.jpg"
+    },
+    {
+      "title": "In the Ruins of Mohenjo-Daro",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Stranded by the Taliban in the ruins of a pre-Islamic city, a woman chaperoning a school trip faces ancient horrors as boys go missing and the fog rolls in.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1578501809/uploads/production/serial/cover_tall-07c1cf56-a6ac-40f0-ab76-1488dbeb6624.jpg"
+    },
+    {
+      "title": "A Human Stain",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Helen is a British expatriate at loose ends. When a friend asks her to tutor his nephew at his family’s remote, castle-like house in Germany, it seems like the perfect solution to her troubles . . . until she arrives.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577140357/uploads/production/serial/cover_tall-d4b21963-265d-4b07-8567-3169b3e3940f.jpg"
+    },
+    {
+      "title": "The Girl Who Ruled Fairyland—For a Little While",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Once upon a time, a very practical girl named Mallow defeated King Goldmouth and saved several worlds. ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577141054/uploads/production/serial/cover_tall-5821660d-38a5-47b6-938b-7d35e87b12aa.jpg"
+    },
+    {
+      "title": "The Future of Hunger in the Age of Programmable Matter",
+      "is_released": false,
+      "rating": null,
+      "tagline": "Otto, a former addict, is indebted to his lover, faced with temptation, and fighting hard. But in a future where matter can be reprogrammed, for good or bad, anything is possible.  ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050677/uploads/production/serial/cover_tall-dce7456e-8b72-44dd-8be7-d0f1d9ab5b66.png"
+    },
+    {
+      "title": "His Footsteps, Through Darkness and Light",
+      "is_released": true,
+      "rating": null,
+      "tagline": "The Majestic Oriental Circus has always been a home for outcasts and misfits. When a sacred dancer comes to the trapeze master begging for help, an act of compassion sets into motion a sequence of events that threatens to destroy them all.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050594/uploads/production/serial/cover_tall-4b909ae9-d97f-40b1-99c3-e4ed1b5128d3.png"
+    },
+    {
+      "title": "Intervention",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Jules, from child-hating Luna, loves children and has been doing crèche work for fifty years. With her final crèche graduating, she has to decide where to go next and whether it’s time to take her skills home.   ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1581622540/uploads/production/serial/cover_tall-53541131-0741-4a3f-a975-391621085577.jpg"
+    },
+    {
+      "title": "Ishq",
+      "is_released": true,
+      "rating": null,
+      "tagline": "They whispered: Parveen is in love with the shakarkandi vendor. A ghost story set amidst rising floodwaters in Old Lahore.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050634/uploads/production/serial/cover_tall-1926d869-0d4d-4aed-a1e9-0c88a7f35085.png"
+    },
+    {
+      "title": "A Kiss With Teeth",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Domestic life isn’t always easy. Vlad has grown distant from his wife, their son is struggling in school, and, as he gets to know his son’s teacher, it’s becoming very difficult to hide his teeth.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050364/uploads/production/serial/cover_tall-45e415f7-0b15-4fba-b741-736e3dfa7af3.png"
+    },
+    {
+      "title": "Please Undo This Hurt",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Do you ever feel like you care too much? Dominga’s drinking buddy Nico is tired of hurting people and wonders what it would be like if he could just erase his whole life. And Dominga might have been gifted the power to make that happen.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050642/uploads/production/serial/cover_tall-602e78e7-bd76-4c78-b2c3-2bd4d4e81e55.png"
+    },
+    {
+      "title": "Vertical World",
+      "is_released": true,
+      "rating": null,
+      "tagline": "After a floating civilization is attacked by the world below, two teenagers race to stop an impending war.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577150329/uploads/production/serial/cover_tall-f8ac0b27-ca51-437b-987b-1ad8280c4bf6.jpg"
+    },
+    {
+      "title": "The Haunting of Grey Hills",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Fifty years after a deadly high school fire, a teenage girl discovers that she may be all that stands between the new school and a doorway to hell.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577127247/uploads/production/serial/cover_tall-d4c9825b-de58-4550-8cb7-e90b333bd2e5.jpg"
+    },
+    {
+      "title": "The Extra Girl",
+      "is_released": false,
+      "rating": null,
+      "tagline": "When a film blogger receives a collection of a dead actress’ belongings, he starts to put together the pieces of the mystery that killed her.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577128529/uploads/production/serial/cover_tall-665eb26d-1e10-4a48-8dc1-846e4ac88f5b.jpg"
+    },
+    {
+      "title": "In the Loop",
+      "is_released": false,
+      "rating": null,
+      "tagline": "Drones have not solved warfare—yet. Human operators make mistakes and suffer high rates of PTSD, but technology is ready to take people out of the equation. It’s the perfect solution. Or is it? ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050626/uploads/production/serial/cover_tall-4efb804a-45b0-4073-bd13-7ab4a89f10bf.png"
+    },
+    {
+      "title": "Wolf 359",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A radio drama set on board a space station, where the dysfunctional crew deals with daily life-or-death emergencies, while searching for signs of alien life and discovering there might be more to their mission than they thought. Free!",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1576858942/uploads/production/serial/cover_tall-958fe7f0-2679-43d7-bf9d-4534e45a4ad8.jpg"
+    },
+    {
+      "title": "The Scholast in the Low Waters Kingdom",
+      "is_released": false,
+      "rating": null,
+      "tagline": "A scholar armed with knowledge from other realms appears one day in the Low Waters Kingdom, determined to stop an impending war. ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050709/uploads/production/serial/cover_tall-ca89cf86-04c6-45d1-b16b-c4715f801b3b.png"
+    },
+    {
+      "title": "The Perfect Book",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In a world where your ideal book can be created from pieces of everything ever written, is there still a place for originality?",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050698/uploads/production/serial/cover_tall-a82fb4ab-8701-4859-bf15-4afde5918fdc.png"
+    },
+    {
+      "title": "Time of Death",
+      "is_released": true,
+      "rating": null,
+      "tagline": "If you could go back and change the past, would you? What would happen if you did? A young man who caused a fatal car crash is about to find out.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1577129532/uploads/production/serial/cover_tall-a08aa2b9-9e18-4a50-a128-2e5e911af73c.jpg"
+    },
+    {
+      "title": "The Log Goblin",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Someone has been stealing wood from a man’s log pile. On a cold winter’s night, he figures out who . . . and why.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050690/uploads/production/serial/cover_tall-45f3a120-0fc1-4e4f-85d5-54d524918159.png"
+    },
+    {
+      "title": "Saboteur",
+      "is_released": true,
+      "rating": null,
+      "tagline": "As AI technology advances, some industries are being taken over by computers. On a deserted stretch of highway in the middle of the night, a long-haul trucker has one chance to fight back.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050651/uploads/production/serial/cover_tall-b7b81bbc-c368-4bbf-9bac-cf256f6f4631.png"
+    },
+    {
+      "title": "The Beasts Who Fought For Fairyland Until the Very End and Further Still",
+      "is_released": true,
+      "rating": null,
+      "tagline": "As the evil Marquess ascends to rule over Fairyland, a wyvern, the Green Wind, and a giant cat cope with their broken-hearted disappointment and embrace the magic of saying No.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587051187/uploads/production/serial/cover_tall-8f995219-757c-40b3-9e4f-8f330e88b6ea.png"
+    },
+    {
+      "title": "The White-Throated Transmigrant",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A troubled young woman’s life changes forever after a bird crashes into her windshield in the small town where she’s trying to start over.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1587050716/uploads/production/serial/cover_tall-bfb561a3-e898-442a-8aeb-6d3d6625734d.png"
+    },
+    {
+      "title": "Emergent Behavior",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A robotics genius creates the perfect AI: perfectly intuitive, perfectly emotive . . . and perfectly unpredictable.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1573230623/uploads/production/serial/cover_tall-7413b462-96dc-47fe-bc4c-7d98dc2038d5.jpg"
+    },
+    {
+      "title": "Frankenstein",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Break into the world of Mary Shelley’s Frankenstein, presented by Alison Larkin and narrated by Clive Hayward.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1572278541/uploads/production/serial/cover_tall-0f6b3784-f4ff-4b7a-a0c1-43e934ce3872.jpg"
+    },
+    {
+      "title": "Happy Hour with Homer: The Iliad",
+      "is_released": false,
+      "rating": null,
+      "tagline": "A new translation of the Iliad, with a twist. (3 episodes total)",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1574181958/uploads/production/serial/cover_tall-715de8b5-83f8-4304-9e70-1be437069956.jpg"
+    },
+    {
+      "title": "Werewolf Council",
+      "is_released": false,
+      "rating": null,
+      "tagline": "A secret order keeps werewolves hidden, but when something threatens that balance, all bets are off.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1573851487/uploads/production/serial/cover_tall-7cb0fe5a-d1b5-41d8-b5a8-ae90d088c8f7.jpg"
+    },
+    {
+      "title": "Embodied",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Award-winning sci-fi authors team up to write a chilling story about transferring the human mind to android bodies.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299944/uploads/production/serial/cover_tall-140d0d6a-2770-4fe8-9574-97ad9671f478.jpg"
+    },
+    {
+      "title": "Dracula",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Creep into the world of Bram Stoker’s Dracula, presented by award-winning narrator Alison Larkin.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1570050150/uploads/production/serial/cover_tall-dc9e5c14-1223-4d0d-a7e4-212e69f86ec9.jpg"
+    },
+    {
+      "title": "Dark Heights",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A world-weary mage and a determined young actress confront sinister forces that are trying to control the world.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579725611/uploads/production/serial/cover_tall-1cec82d2-fd76-4a14-84e0-c47a80bb1237.jpg"
+    },
+    {
+      "title": "The Understudy",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Four mothers must decide how far they’ll go to protect their daughters from a deadly threat at their performing arts school.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300742/uploads/production/serial/cover_tall-2bb1377a-703c-42d7-aef9-26e0f53a3a85.jpg"
+    },
+    {
+      "title": "Northanger Abbey",
+      "is_released": true,
+      "rating": 3.5,
+      "tagline": "Venture into the world of Jane Austen’s gothic satire Northanger Abbey, with A History of England, presented by award-winning narrator Alison Larkin.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1570569997/uploads/production/serial/cover_tall-9888e801-2949-4f52-8566-888c2b269503.jpg"
+    },
+    {
+      "title": "Alice in Wonderland",
+      "is_released": true,
+      "rating": 2.3,
+      "tagline": "Tumble into Wonderland in Alice in Wonderland by Lewis Carroll, presented by award-winning narrator Alison Larkin. ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1565885239/uploads/production/serial/cover_tall-bb46c3b4-13ad-4a5b-8ec2-001144b811ec.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "is_released": true,
+      "rating": 2.7,
+      "tagline": "Escape into the world of Jane Austen’s Pride and Prejudice, with songs from Regency England, presented by award-winning narrator Alison Larkin. ",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1565024612/uploads/production/serial/cover_tall-7c645602-5111-4db5-b4d6-4801ba33f439.jpg"
+    },
+    {
+      "title": "Peter Pan",
+      "is_released": true,
+      "rating": 4.8,
+      "tagline": "Journey to Neverland in Peter Pan by J.M. Barrie, presented by award-winning narrator Alison Larkin.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1565024470/uploads/production/serial/cover_tall-3ac7a2ab-9b5a-43ae-b2da-0330d57e1f37.jpg"
+    },
+    {
+      "title": "Alternis",
+      "is_released": true,
+      "rating": 4.97,
+      "tagline": "In the near future, world politics are settled in a video game, and the designer is recruited to stop total war.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1585347525/uploads/production/serial/cover_tall-a0902f54-3cbe-4c2d-86e9-ced261fd46d1.png"
+    },
+    {
+      "title": "Bookburners",
+      "is_released": true,
+      "rating": 4.35,
+      "tagline": "A black-ops team, backed by the Vatican, hunts down dangerous books to prevent the apocalypse.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586555819/uploads/production/serial/cover_tall-9c761386-7494-4887-ad78-ce5b51901543.png"
+    },
+    {
+      "title": "The Triangle",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A shipwrecked team of experts must unravel the secrets of the Bermuda Triangle, before it kills them all.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1585347533/uploads/production/serial/cover_tall-30df42ec-c4c3-41f7-99b7-19f07dc124e8.png"
+    },
+    {
+      "title": "The Vela",
+      "is_released": true,
+      "rating": 4.23,
+      "tagline": "In a dying star system, a soldier for hire uncovers a universe-shattering secret while hunting for a missing refugee ship.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1585347489/uploads/production/serial/cover_tall-2fdf9e3b-2672-4711-aa38-7e4b594fcec3.png"
+    },
+    {
+      "title": "Whitehall",
+      "is_released": true,
+      "rating": 3.7,
+      "tagline": "When a Portuguese princess marries the King of England, she encounters unexpected obstacles, including the king’s mistress.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579301057/uploads/production/serial/cover_tall-2f235d4c-24bd-4f5e-95db-15ccd1c9629e.jpg"
+    },
+    {
+      "title": "1776: The World Turned Upside Down",
+      "is_released": true,
+      "rating": 3.4,
+      "tagline": "In collaboration with The Associated Press, a month-by-month immersive account of how the founders revolutionized the world in America’s first year. (12 episodes total.)",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579298983/uploads/production/serial/cover_tall-98a5f7e5-04b5-4228-aa8c-5af5503cc5bf.jpg"
+    },
+    {
+      "title": "Tremontaine",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In a world of politics, manners, and intrigue, a duchess, a scholar, a tradeswoman, and a genius all fight for their place.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586555882/uploads/production/serial/cover_tall-2bd78946-62b5-4248-8d75-494c87caf629.png"
+    },
+    {
+      "title": "Silverwood: The Door",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A Cub Scout troop and a corporate retreat encounter a deadly and mysterious force that could destroy the world.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300641/uploads/production/serial/cover_tall-4b817d75-dd3e-46f5-83c7-b948e4e551c2.jpg"
+    },
+    {
+      "title": "Exquisite Corpse",
+      "is_released": true,
+      "rating": null,
+      "tagline": "A filmmaker enlists one of his former actresses to turn his death into a work of art.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299998/uploads/production/serial/cover_tall-0608a47c-b374-4390-a347-704e82fa86f6.jpg"
+    },
+    {
+      "title": "Dead Air",
+      "is_released": true,
+      "rating": null,
+      "tagline": "As she investigates an old case, a true-crime podcaster uncovers dark secrets that bring the murder close to home.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299720/uploads/production/serial/cover_tall-8aed13f4-d826-470c-98c6-497d055144ad.jpg"
+    },
+    {
+      "title": "A Most Dangerous Woman",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In Victorian England, a woman must solve a dark mystery in order to save her husband, suspected of murdering his first wife.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299041/uploads/production/serial/cover_tall-7390cf29-0b43-4470-8440-051c6cf048b7.jpg"
+    },
+    {
+      "title": "Born to the Blade",
+      "is_released": true,
+      "rating": null,
+      "tagline": "In a floating world, two young bladecrafters must use their mastery of sword and magic to stop a bloody war.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579299544/uploads/production/serial/cover_tall-b0818b51-d2d5-4db4-b784-d3fdb5c3ab13.jpg"
+    },
+    {
+      "title": "The Woman in White",
+      "is_released": true,
+      "rating": null,
+      "tagline": "After encountering a mysterious woman dressed in white, a young man is pulled into a plot where nothing is as it seems.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1545230453/production/serial/d54563d3-57a9-4dd5-88db-94efedda2651/cover_tall.jpg"
+    },
+    {
+      "title": "Royally Yours",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Romance blossoms between five different couples on the day before the Royal Wedding.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1582838886/uploads/production/serial/cover_tall-ada47b6c-860b-4ab3-b28b-f24e938b557c.jpg"
+    },
+    {
+      "title": "Belgravia",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Listen to or read the book that inspired the Belgravia TV series! When an aristocratic family and an upstart family collide, long-kept secrets threaten everything.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1545230457/production/serial/3574b0a1-feb9-4a82-87c2-379173d6e506/cover_tall.jpg"
+    },
+    {
+      "title": "False Idols",
+      "is_released": true,
+      "rating": null,
+      "tagline": "An FBI linguist goes undercover as an Egyptian heiress in the Cairo art scene in order to stop a terrorist plot.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300074/uploads/production/serial/cover_tall-d7a26fc9-d0b7-439b-a84a-72947df4d26e.jpg"
+    },
+    {
+      "title": "ReMade",
+      "is_released": true,
+      "rating": null,
+      "tagline": "23 teenagers die in the same minute. They wake up to a future they don’t recognize in a world where machines want to kill them.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1586555850/uploads/production/serial/cover_tall-93c91473-2f66-4028-8fd7-a90fd7629b16.png"
+    },
+    {
+      "title": "The Fisher of Bones",
+      "is_released": true,
+      "rating": null,
+      "tagline": "Moses' quest reimagined. After her father dies, a woman becomes a new prophet in the ancient world.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1582144361/uploads/production/serial/cover_tall-70cda82b-c96b-498f-9db3-89335124fd3d.jpg"
+    },
+    {
+      "title": "Geek Actually",
+      "is_released": true,
+      "rating": 3.98,
+      "tagline": "A group of nerdy female friends navigates life and love in a sexy serial that’s all about feminism, friendship, and fandom.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1579300253/uploads/production/serial/cover_tall-54e48f87-e416-48c2-a7b4-f530f2a3173a.jpg"
+    },
+    {
+      "title": "The Witch Who Came in From the Cold",
+      "is_released": true,
+      "rating": 3.67,
+      "tagline": "In Cold War Prague, a CIA and a KGB agent work together to save the world from a secret occult society.",
+      "image": "https://res.cloudinary.com/serial-box/image/upload/w_319,h_414,c_fill/v1585347543/uploads/production/serial/cover_tall-c12511a3-e946-44c9-86d1-84864a1a5fcc.png"
+    }
+  ],
+  "skipped": [
+    "ReMade",
+    "False Idols",
+    "Gods & Lies",
+    "The Triangle",
+    "Dracula",
+    "The Fisher of Bones",
+    "Bookburners",
+    "Pride and Prejudice",
+    "Peter Pan",
+    "Alice in Wonderland",
+    "Exquisite Corpse"
+  ],
+  "titles_owned": [
+    "Marvel's Thor: Metal Gods",
+    "Orphan Black: The Next Chapter",
+    "Ninth Step Station",
+    "Dark Heights"
+  ]
+}

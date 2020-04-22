@@ -1,0 +1,6 @@
+module Pods_Recommendations {
+  umbrella header "Pods-Recommendations-umbrella.h"
+
+  export *
+  module * { export * }
+}
