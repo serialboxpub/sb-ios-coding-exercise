@@ -6,13 +6,13 @@ NOTE: We will keep you posted regardless after you have completed and submitted 
 ### Exercise Overview ###
 * All your code should be written in **Swift**
 * Please see the "Starter App Overview" and "Task List" sections below for instructions for completing this exercise. There will also be additional comments placed within the starter project's code to help direct you.
-* Everyone's time is valuable. We designed this exercise with the expectation it would take you no longer than 1-2 hours maximum, but hopefully less, to complete.
-* Once you start, there is no set due date for completing and submitting the exercise. However, since we are actively interviewing, the longer you take to submit, the greater the chance that we'll move forward with other candidates.  We'll presume any forks greater than 7 days old without a submitted PR will not be completed/submitted.
+* Everyone's time is valuable. You can spend as much time as you want, but we designed this exercise with the expectation it would take you no longer than 1-2 hours to complete.
+* Once you start, there is no set due date for completing and submitting the exercise. However, since we are actively interviewing, the longer you take to submit, the greater the chance that we'll move forward with other candidates.  We'll assume any forks greater than 7 days old without a submitted PR will not be completed/submitted.
 * If you run into issues getting set up or submitting your work, feel free to email me directly and I'll try to respond as quickly as I can.
 
 ### Getting Set Up ###
 1. **FORK** this repository to your own github account
-2. Clone the repo via `git clone git@github.com:<YOUR_GITHUB_ACCOUNT>/sb-ios-coding-exercise.git` or your favorite git client
+2. Clone the newly forked repo via `git clone git@github.com:<YOUR_GITHUB_ACCOUNT>/sb-ios-coding-exercise.git` or your favorite git client
 3. From your cloned fork, create a new branch named with the following format: `firstName_lastName_ratings`
 4. Open `Recommendations.xcworkspace` and build and run.  If it builds and runs successfully, you can skip the remaining steps (5-7) here and are ready to begin completing the task list. If it fails to build and run, continue to the next step.
 5. If you don't have [Cocoapods](https://cocoapods.org/about) installed, install it with the following commands:
@@ -32,7 +32,7 @@ NOTE: We will keep you posted regardless after you have completed and submitted 
 Keep it simple. Read the task list, requirements and restrictions carefully and focus on solving the problem to the best of your ability.
 
 Treat this code like production code. That is, develop your solution in the same way that you would for any code that is intended to be deployed to production. This may be a toy exercise, but we really would like to get an idea of how you build for iOS on a day-to-day basis.
---
+
 
 ### Starter App Overview ###
 Serial Box produces serialized fantasy and science fiction stories in text and audio formats. The goal of this app exercise is to create a top-10 list of recommended titles for the app user, with recommendations sorted from highest rating to lowest rating.  We'll base this top-10 list on the titles with the highest ratings, being sure to exclude any titles the user already owns or has previously skipped over. Titles that have not been released yet should also be excluded.
@@ -43,7 +43,8 @@ For the purpose of this exercise, we will simulate making a network request to o
  * an array of titles the user has skipped or passed on (see `skipped`)
 
 NOTE: To simulate the network request, the starter project uses [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) to stub the response with the included `ratings.json` file. The stubbed network response (handled in `Stub.swift`) has intentionally been set up with a slight delay to better simulate true network conditions. You do not need to modify anything in `Stub.swift`, you just need to ensure the stubbed response setup remains in place and that the same URL is used to call the provided URLSession dataTask.
---
+
+
 
 ## Task List ##
 1. The stubbed network request is returning the local file `ratings.json` in its callback. There is extremely crude json parsing code in place to facilitate populating the tableview with data to start. You should improve upon parsing the response's json in whatever manner you see fit.
